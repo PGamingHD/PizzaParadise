@@ -1,6 +1,6 @@
 # PizzaParadise
 
-*Welcome to the Open-Source PizzaParadise project! This is where you can get your very own PizzaParadise files. This used to be a minigame bot, where the point is to collect as much Pizza as you could and then do stuff with the money gained from that. It was never finished, and eventually I did not have enough time to continue with the project. Therefore it was open-sourced for everyone to continue working and building on it. Please do note that in the License provided with this, it states that you must if using this still reference the original author of this project. (PGamingHD#0666) *
+*Welcome to the Open-Source PizzaParadise project! This is where you can get your very own PizzaParadise files. This used to be a minigame bot, where the point is to collect as much Pizza as you could and then do stuff with the money gained from that. It was never finished, and eventually I did not have enough time to continue with the project. Therefore it was open-sourced for everyone to continue working and building on it. Please do note that in the License provided with this, it states that you must if using this still reference the original author of this project.* (PGamingHD#0666)
 
 **REQUIREMENTS:**
 *Node.js 16.6.0+*
