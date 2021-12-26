@@ -12,7 +12,8 @@ MySQL server (Tested on 8.0.21)*
 
 2. After done that, please fill in EVERYTHING else in the config file that needs to be added in there.
 3. Done that? Now its time to install node packages! Please use the command line command `npm i` into the root (Where the index.js file is hosted) (Needs node.js installed)
-4. After you have filled in config.json and installed all NODE.JS packages... You are more or less ready to test it out, if you have filled everything out correctly.. This should work and now turn on your bot, you are now able to host your own bot and should not have any issues with this. 
+4. Now it is time to setup the Database with all SQL files, please create a new Schema, then import all files found in the SQL-Files folder into that Database, then it should be setup and ready for the next step!
+5. After you have filled in config.json and installed all NODE.JS packages... You are more or less ready to test it out, if you have filled everything out correctly.. This should work and now turn on your bot, you are now able to host your own bot and should not have any issues with this. 
 
 **UPDATING:**
 
