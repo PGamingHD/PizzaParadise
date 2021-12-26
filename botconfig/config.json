@@ -1,0 +1,22 @@
+{
+    "staffID": ["STAFFID1", "STAFFID2"],
+    "ownerID": ["OWNER ID HERE"],
+    "token": "INPUT BOT TOKEN HERE",
+    "prefix": "INPUT DEFAULT PREFIX HERE",
+    "botID": "INPUT BOT ID HERE",
+    "botVersion": "BOT VERSION INPUT HERE",
+    "webhookurl": "WEBHOOK URL FOR LOGGING HERE",
+    "supporturl": "SUPPORT SERVER URL HERE",
+    "status": {
+        "text": "!STATUS TEXT UNDER BOT NAME HERE!",
+        "type": "WATCHING",
+        "COMMENT:": "TYPES ARE: PLAYING, STREAMING, WATCHING, LISTENING",
+        "url": "TWITCH LINK HERE? (OR REMOVE)"
+     },
+     "Database": {
+        "DB_USER": "DB USER HERE",
+        "DB_PASS": "DB PASS HERE",
+        "DB_HOST": "DB HOST HERE",
+        "DB_DATABASE": "DB NAME HERE"
+     }
+}
